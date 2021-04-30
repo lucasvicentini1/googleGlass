@@ -1,3 +1,4 @@
 #### Projeto - Google Glass 
+Site do Google Glass.
 
-Site do Google Glass [HTML5, CSS3 E JAVASCRIPT]
+![site google glass](https://github.com/lucasvicentini1/googleGlass/blob/main/20210430_123206.gif)
